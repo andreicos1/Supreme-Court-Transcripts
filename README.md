@@ -1,5 +1,5 @@
 # Supreme-Court-Transcripts
-Text analysis of supreme court transcripts, from 1956 to 2018. Data originally from http://scdb.wustl.edu/,
+Analysis of supreme court transcripts, from 1956 to 2018. Data originally from http://scdb.wustl.edu/,
 combined with wikipedia data and put together by Eric Wiener at 
 https://github.com/EricWiener/supreme-court-cases, then uploaded as a SQL repository at
 https://www.dolthub.com/repositories/Liquidata/us-supreme-court-cases by reddit user timeshn.

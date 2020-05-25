@@ -8,4 +8,4 @@ In this analysis I will be looking at the transcripts and attempt to answer a fe
   3) Are there any significant differences in word usage by party affiliation ?
   4) Who are/were the most vocal justices in court ? 
 
-Keep in mind that this is but scratching the data analysis possibilities of the transcripts. If you have any ideas of anything else that can be tested using this data, or of any different approaches to this data set, please don't hesitate to let me know !
+

@@ -3,9 +3,8 @@ Analysis of supreme court transcripts, from 1956 to 2018. Data originally from h
 
 In this analysis I will be looking at the transcripts and attempt to answer a few simple questions:
 
-  1) What are the most common used words ?
-  2) What are the most frequent words used by the justices ?
-  3) Are there any significant differences in word usage by party affiliation ?
-  4) Who are/were the most vocal justices in court ? 
+  - What are the most frequently used words?
+  - Are there any significant differences in word usage by party affiliation ?
+  - Who are/were the most vocal justices in court ? 
 
 
